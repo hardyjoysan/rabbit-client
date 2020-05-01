@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mainblock{
+  margin-top: 15px;
+}
+
+.uploadform, .searchform{
+  display: block;
+  margin-top: 15px;
+}
+
+.card-img-top{
+  height: 50px;
+}
+
+.pagination{
+  margin-top: 15px;
+}
